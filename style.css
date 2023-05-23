@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.pai{
+    position: relative;
+    top: 100px;
+    left: 350px;
+    width: 500px;
+    height: 400px;
+    background: darkolivegreen;
+}
+.q1{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    top: 100px;
+    left: 150px;
+    background: black;
+}
+.q2{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    top: 40px;
+    left: 280px;
+    background: black;
+}
+.q3{
+    position: relative;
+    width: 70px;
+    height: 100px;
+    top: 41px;
+    left: 210px;
+    background: black;
+}
+.q4{
+    position: relative;
+    width: 45px;
+    height: 100px;
+    left:175px;
+    background: black;
+}
+.q5{
+    position: relative;
+    width: 45px;
+    height: 100px;
+    top: -100px;
+    left:275px;
+    background: black;
+}
